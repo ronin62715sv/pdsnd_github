@@ -1,4 +1,4 @@
---Question 4
+--Query for Question 4
 
 WITH t1\
   AS (SELECT DATE_TRUNC('day', r.rental_date) AS day,
