@@ -1,5 +1,2 @@
 .github/**
-'old Q1 results.csv'
-'old Q2 results.csv'
-'old Q3 results.csv'
-'old Q1 results.csv'
+samples/*.csv
