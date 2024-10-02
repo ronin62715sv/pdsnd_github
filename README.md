@@ -14,14 +14,10 @@ The purpose of this project is to understand more about customer demand and beha
  - What day of the week are family friendly movies rented the most on average?
 
 ### Files used
-.gitignore
-Q1.sql
-Q2.sql
-Q3.sql
-Q4.sql
-README.md
-SQL Project Slides.pdf
-dvd-rental-erd-2.pdf
-
-### Credits
-N/A
+- .gitignore
+- Q1.sql
+- Q2.sql
+- Q3.sql
+- Q4.sql
+- SQL Project Slides.pdf
+- dvd-rental-erd-2.pdf
