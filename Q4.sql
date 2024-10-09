@@ -26,4 +26,4 @@ SELECT CASE DATE_PART('dow', day)
        AVG(rental_count) AS avg_amt_rentals
   FROM t1
  GROUP BY 1
- ORDER BY 1;
+ ORDER BY 2 DESC;
