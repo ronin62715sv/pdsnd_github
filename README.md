@@ -11,11 +11,17 @@ The purpose of this project is to understand more about customer demand and beha
  - What category had the most movies rented for the longest duration?
  - What day of the week are family friendly movies rented the most on average?
 
+### Refactoring Note
+The following improvements were done based on the feedback recieved from the first SQL project submission;
+ - Queries 1, 2, and 4 were fixed to output data that doesnt require additonal processing before visualization.
+ - Queries 1, 2, and 4 were fixed to output data that sorts from greatest to least for better visualization.
+ - Query 3 outputs quartile data in column format that helps to create the recommended clustered bar chart visualization without additional processing.
+
 ### Files used
 - .gitignore
 - Q1.sql
 - Q2.sql
 - Q3.sql
 - Q4.sql
-- SQL Project Slides.pdf
+- refactored SQL Project.pdf
 - dvd-rental-erd-2.pdf
